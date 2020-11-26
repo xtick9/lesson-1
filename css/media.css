@@ -1,0 +1,21 @@
+@media (max-width: 1199.98px){
+
+}
+
+@media (max-width: 991.98px){
+    
+}
+
+@media (max-width: 767.98px){
+    .menu_burger{
+        display: block;
+    }
+    .header_links{
+        display: none;
+    }
+    
+}
+
+@media (max-width: 565.98px){
+    
+}
